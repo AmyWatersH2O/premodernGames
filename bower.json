@@ -1,0 +1,23 @@
+{
+  "name": "premodernGames",
+  "main": "index.js",
+  "homepage": "https://github.com/AmyWatersH2O/premodernGames",
+  "description": "video-game-library",
+  "keywords": [
+    "video-game"
+  ],
+  "authors": [
+    "AmyWatersH2O"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
